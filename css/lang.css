@@ -1,0 +1,16 @@
+.lang {
+    position:absolute;
+    right: 1;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.ig {
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    /* Дополнительные стили по необходимости */
+}
